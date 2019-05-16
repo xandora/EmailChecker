@@ -1,5 +1,5 @@
 # EmailChecker
-Checks every 15 minutes to see when a users email address has finally been added to Active Directory. Support watching multiple users at the same time.
+Checks every 15 minutes to see when a users email address has finally been added to Active Directory. Support watching multiple users at the same time. Currently it will default to Always On Top to ensure that you don't miss anything.
 
 ## Usage
 Run the script from within Powershell:
